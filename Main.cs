@@ -35,7 +35,8 @@ class FunnyWords
 		PrintFunniestWords ();
 	}
 
-	public Dictionary<string, int> GetFunnyWords() {
+	public Dictionary<string, int> GetFunnyWords()
+	{
 		return funnyWords;
 	}
 
